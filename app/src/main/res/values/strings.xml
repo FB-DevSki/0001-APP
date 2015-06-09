@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SMSAlert4</string>
+
+    <string name="header">STARTSCHERM</string>
+    <string name="opt1">INSTELLEN en LOG IN</string>
+    <string name="opt2">ALARM SCHERM</string>
+    <string name="opt3">UITLOGGEN</string>
+    <string name="opt4">TELEFOONNUMMERS</string>
+    <string name="loginviewheader">INSTELLEN en LOG IN</string>
+    <string name="logoutviewheader">LOG UIT EN AFSLUITEN</string>
+    <string name="name">(eigen) Naam</string>
+    <string name="group">Gebouw / Groep</string>
+    <string name="alarm_code">Ruimte / Alarm code</string>
+    <string name="deelnemer1">Deelnemer1</string>
+    <string name="deelnemer2">Deelnemer2</string>
+    <string name="deelnemer3">Deelnemer3</string>
+    <string name="alarmscreenheader">Alarm scherm</string>
+    <string name="phone1">Telefoonnummer</string>
+    <string name="phone2">Telefoonnummer</string>
+    <string name="phone3">Telefoonnummer</string>
+    <string name ="btnTelNrSave">Save</string>
+    <string name= "telLijstHeader">Telefoonlijst</string>
+
+
+
+
+
+
+
+
+    <string name="action_settings">Settings</string>
+
+</resources>

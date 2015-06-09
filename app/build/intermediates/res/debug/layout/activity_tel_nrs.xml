@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/telLijstHeader"
+        android:gravity="center"
+        android:textStyle="normal|bold"
+        android:textSize="24dp"
+        android:paddingBottom="20dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/deelnemer1"/>
+    <EditText
+        android:id="@+id/part1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:maxLength="10"
+        />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/phone1"/>
+    <EditText
+        android:id="@+id/tel1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:maxLength="10"
+        />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/deelnemer2"/>
+    <EditText
+        android:id="@+id/part2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:maxLength="10"
+        />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/phone2"/>
+    <EditText
+        android:id="@+id/tel2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:maxLength="10"
+        />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/deelnemer3"/>
+    <EditText
+        android:id="@+id/part3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:maxLength="10"
+        />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/phone3"/>
+    <EditText
+        android:id="@+id/tel3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:maxLength="10"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=""/>
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tel_nr_save"
+        android:text="@string/btnTelNrSave"
+        />
+
+</LinearLayout><!-- From: file:/C:/androidstudioprojects/SMSAlert4/app/src/main/res/layout/activity_tel_nrs.xml -->
